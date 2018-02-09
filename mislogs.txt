@@ -1,0 +1,11 @@
+commit 0b1d790a1c689a1e81e9b0247569fb10a9475f29
+Author: jesusurias11 <jesus_gabino@hotmail.com>
+Date:   Thu Feb 8 12:25:38 2018 -0700
+
+    cambio importante
+
+commit 64b780915131fd8a2a8b9dc9e84e1ef2e6c4b30f
+Author: CCDM06 <ccdm06@iMac-de-ccdm06.local>
+Date:   Tue Feb 6 12:47:55 2018 -0700
+
+    commit inicial
